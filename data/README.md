@@ -8,7 +8,7 @@ Merged data for this project
 * All of the combined data are combined with (Year, Month) key.
 * The quarterly data (i.e., data2) is duplicated for the corresponding month before the merge
 
-Data link: https://drive.google.com/file/d/1_G3JtSxUf7bR0MzjRkGUQdgFTTRqQOVS/view?usp=drive_link
+Data link: [https://drive.google.com/file/d/1_G3JtSxUf7bR0MzjRkGUQdgFTTRqQOVS/view?usp=drive_link](https://drive.google.com/drive/folders/1LbaQ7vQbNT5nlsfKEDWxtC3G8rBmLnlG)
 
 Data Description
 Year: Year the house was sold
